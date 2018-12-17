@@ -1,0 +1,19 @@
+﻿.corner-frame {
+    float: left;
+}
+
+.scrollable-rows-frame {
+    float: left;
+    overflow: hidden;
+}
+
+.scrollable-columns-frame {
+    overflow: hidden;
+}
+
+.scrollable-data-frame {
+    overflow: auto;
+}
+
+
+
